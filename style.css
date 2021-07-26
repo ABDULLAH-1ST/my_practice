@@ -1,0 +1,159 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.hello{
+    font-size: 35px;
+}
+
+.top{
+    background-image: url(background/header-bg.png);
+    background-repeat: no-repeat;
+    height:600px;
+    background-position: left;
+    background-size: 100%;
+   
+}
+.half_section{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    
+}
+.half_section img{
+    width: 80%;
+    margin-top: 30px;
+    float: left;
+}
+.red_color{
+    color: red;
+    margin-bottom: 35px;
+}
+.hire_button{
+    text-decoration: none;
+    color: seashell;
+    background-color: red;
+    padding: 10px 25px;
+    border-radius: 8px;
+    
+    
+}
+.peragraph{
+    margin-bottom: 35px;
+}
+.bio_pic{
+    margin-left: 80px;
+}
+.pera{
+    margin-top: 100px;
+}
+.pera1{
+    margin-top: 150px;
+}
+.mid{
+    background-image: url(background/biography-bg.png);
+    height:600px;
+    background-position: left;
+    background-size: 100%;
+}
+
+.my_latest_work{
+    background-image: url(background/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: 600px;
+    background-position: right;
+    
+}
+
+.mlw{
+    text-align: center;
+    margin-top: 100px;
+    overflow: hidden;
+    font-size: 50px;
+}
+
+
+.img1{
+    width: 25%;
+    float: left;
+    overflow: hidden;
+   
+}
+
+.img1 img{
+    width: 100%;
+}
+
+.img2{
+    width: 25%;
+    float: left;
+    overflow: hidden;
+    margin-left: 50px;
+}
+
+.img2 img{
+    width: 100%;
+}
+
+.img3{
+    width: 25%;
+    overflow: hidden;
+    margin-left: 50px;
+    float: left;
+}
+
+.img3 img{
+    width: 100%;
+}
+
+.image_area{
+    height: 200px;
+    margin-top: 80px;
+    margin-left: 180px;
+    margin-bottom: 150px;
+}
+
+.what_section{
+    text-align: center;
+}
+.Bruce{
+    margin-top: 80px;
+}
+
+.Lorem{
+    margin-top: 50px;
+}
+
+
+.pink_section{
+    margin-top: 80px;
+}
+.mail{
+    text-decoration: none;
+    color: seashell;
+    width: bold;
+    
+}
+.send{
+    color: floralwhite;
+}
+
+.pink_section{
+    background-image: linear-gradient(45deg,rgb(165, 14, 59),tomato);
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 20px 10px;
+    padding-bottom: 30px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+.what_section{
+    background-image: url(background/footer-bg.png);
+    background-position: left;
+}
+
+.footer{
+    margin-top: 50px;
+    text-align: center;
+}
